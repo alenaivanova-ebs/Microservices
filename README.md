@@ -9,4 +9,5 @@ Rest API,
 Postgres DB,
 pgAdmin4,
 Docker,
-Lombok
+Lombok,
+Eureka server
