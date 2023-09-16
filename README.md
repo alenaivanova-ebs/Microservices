@@ -11,4 +11,5 @@ pgAdmin4,
 Docker,
 Lombok,
 Eureka server,
-Feign client
+Feign client,
+Zipkin
