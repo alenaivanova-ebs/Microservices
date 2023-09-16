@@ -10,4 +10,5 @@ Postgres DB,
 pgAdmin4,
 Docker,
 Lombok,
-Eureka server
+Eureka server,
+Feign client
